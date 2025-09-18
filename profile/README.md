@@ -1,9 +1,9 @@
 <!-- markdownlint-disable MD033 -->
 
-<h1 align="center">Neuvia</h1>
+<h1 align="center">Neuvia Labs</h1>
 
 <p align="center">
-  <i><b>Neuvia</b> is where technology, health, and human potential converge.</i>
+  <i><b>Neuvia Labs</b> is where technology, health, and human potential converge.</i>
 
 ---
 
